@@ -53,7 +53,7 @@ Questions:{input}
 )
 
 
-# Perform chaining and retireval
+# Perform chaining and retrieval
 full_document_chain = create_stuff_documents_chain(model, prompt)
 retriever = st.session_state.vectors.as_retriever()
 retrieval_chain = create_retrieval_chain(retriever, full_document_chain)
