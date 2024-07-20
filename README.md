@@ -16,3 +16,6 @@ This project aims to develop a Q&A bot designed to answer questions based on the
 ![Langsmith](https://github.com/user-attachments/assets/8241feee-79cc-4c5c-8e98-e9725c05996e)
 
 
+#### References
+
+https://github.com/krishnaik06/Updated-Langchain/blob/main/groq/llama3.py
